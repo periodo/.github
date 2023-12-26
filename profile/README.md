@@ -13,4 +13,5 @@ This GitHub organization is where we develop the software that runs PeriodO, inc
 This is also where we keep PeriodO-related projects-in-development such as the [EDTF Ontology](https://github.com/periodo/edtf-ontology).
 
 See [all of our open issues](https://github.com/search?o=desc&q=org%3Aperiodo&s=created&state=open&type=Issues).
+
 Check [the uptime status of our services](https://status.perio.do/).
