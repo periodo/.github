@@ -7,7 +7,7 @@ This GitHub organization is where we develop the software that runs PeriodO, inc
 * The [PeriodO server](https://github.com/periodo/periodo-server)
 * The [PeriodO web client](https://github.com/periodo/periodo-client)
 * The [PeriodO command-line client](https://github.com/periodo/periodo-cli)
-* [End-to-end tests](https://github.com/periodo/periodo-client) for the PeriodO web client
+* [End-to-end tests](https://github.com/periodo/periodo-tests) for the PeriodO web client
 * The [PeriodO placename gazetteers](https://github.com/periodo/periodo-places)
 
 This is also where we keep PeriodO-related projects-in-development such as the [EDTF Ontology](https://github.com/periodo/edtf-ontology).
